@@ -5,8 +5,6 @@ panel.alignment = "center"
 // Add widgets
 var menu = panel.addWidget("org.kde.plasma.nomadmenu")
 
-panel.addWidget("org.nomad-shell.panel.separator")
-
 panel.addWidget("org.kde.plasma.appmenu")
 panel.addWidget("org.kde.plasma.panelspacer")
 var systray = panel.addWidget("org.nomad.systemtray")

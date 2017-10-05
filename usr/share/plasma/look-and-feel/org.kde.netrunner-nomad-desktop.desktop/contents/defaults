@@ -10,9 +10,6 @@ ColorScheme=Nomad
 [kdeglobals][Icons]
 Theme=Luv
 
-[plasmarc][Theme]
-name=nomad
-
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
 

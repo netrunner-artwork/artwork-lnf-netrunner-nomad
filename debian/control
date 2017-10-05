@@ -9,6 +9,8 @@ Package: artwork-lnf-netrunner-nomad-desktop
 Architecture: all
 Replaces: netrunner-artwork (<< 1.1.49)
 Breaks: netrunner-artwork (<< 1.1.49)
-Depends: artwork-wallpapers-netrunner-core, plasma-widget-volumewin7mixer
+Depends: artwork-wallpapers-netrunner-core,
+         nomad-plasma-look-and-feel,
+         plasma-widget-volumewin7mixer
 Description: Look and Feel packages
   This package provides the default look and feel packages for Netrunner.

@@ -1,7 +1,4 @@
-var plasma = getApiVersion(1)
-
-// Create top pannel
-panel = new plasma.Panel
+panel = new Panel
 panel.location = "bottom"
 panel.alignment = "center"
 
